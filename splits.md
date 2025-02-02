@@ -18,4 +18,5 @@
 17. **Act 4**
 18. Urzael
 19. Adria
-20. **Act 5**
+20. Malthael
+21. **Act 5**
